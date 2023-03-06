@@ -1,0 +1,149 @@
+body {
+    font-family: 'Manrope', sans-serif;
+    width: 100%;
+    background: #FFFFFF;
+}
+
+
+.container {
+    margin: 0 auto;
+    width: 1400px;
+    padding: 125px;
+}
+
+.interior {
+    margin-top: 30px;
+    margin-bottom: 150px;
+    height: 500px;
+    width: 1150px;
+    padding-left: 40px;
+    padding-top: 379px;
+    background-image: url('resources/interior.png');
+}
+
+.image-text {
+    width: 430px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: -0.03em;
+    color: #FFFFFF
+}
+
+h1 {
+font-size: 60px;
+font-weight: 400;
+line-height: 60px;
+width: 956px;
+text-align: left;
+letter-spacing: -0.03em;
+}
+
+h2 {
+font-size: 18px;
+font-weight: 400;
+line-height: 25px;
+letter-spacing: -0.03em;
+text-align: left;
+margin-bottom: 30px;
+}
+
+p.description {
+font-size: 45px;
+width: 1048px;
+line-height: 61px;
+letter-spacing: -0.03em;
+text-align: left;
+margin-top: 30px;
+}
+
+a.btn {
+    display: block;
+    margin-top: 30px;
+    margin-bottom: 150px;
+    width: 255px;
+    height: 67px;
+    line-height: 67px;
+    border-radius: 5px;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #AD1818;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+.project {
+    width: 100%;
+    margin-bottom: 90px;
+}
+
+.project__address {
+font-size: 30px;
+font-weight: 400;
+line-height: 41px;
+letter-spacing: -0.03em;
+text-align: left;
+margin-top: 15px;
+color: #121212;
+}
+
+.project__link {
+font-size: 20px;
+font-weight: 400;
+line-height: 27px;
+letter-spacing: -0.03em;
+color: #AD1818;
+margin-top: 15px;
+}
+
+
+.fullWidthBtn {
+    display: block;
+    height: 153px;
+    width: 100%;
+    line-height: 153px;
+    cursor: pointer;
+    border: 1px solid #AD1818;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+    color:#ad1818; 
+    font-size: 30px;
+    letter-spacing: -0.03em;
+}
+
+.fullWidthBtn:hover { 
+    background-color: #AD1818;
+    color: #fff;
+}
+
+
+
+
+
+.section-black h2 {
+    color: #fff;
+}
+
+.section-black {
+    margin: 0 auto;
+    padding-top: 150px;
+    padding-bottom: 90px;
+    padding-left: 125px;
+    padding-right: 125px;
+    width: 1400px;
+    color: #fff;
+    background-color: #000;
+}
+
+.section__description {
+    font-size: 30px;
+font-weight: 400;
+line-height: 41px;
+letter-spacing: -0.03em;
+text-align: left;
+margin-top: 15px;
+margin-bottom: 60px;
+color: #FFFFFF
+}
